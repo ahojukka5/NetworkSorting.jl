@@ -1,0 +1,4 @@
+name = "NetworkSorting"
+uuid = "7cea1d07-730e-4382-9540-3e8b26c7eea7"
+authors = ["Jukka Aho <ahojukka5@gmail.com>"]
+version = "0.1.0"
